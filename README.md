@@ -71,11 +71,8 @@ A Python application to manage bank accounts with functionalities like creating 
 </p>
 
 -----
+<p align="center">
+    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 
-<h1 align="center">GitHub Stats</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souviksaha&" alt="souviksaha" /></p>
-
-<img align="left" alt="Souvik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=996souvik&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=996souvik&layout=compact&theme=dark" width="46%" />
-<br>
