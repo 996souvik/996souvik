@@ -1,40 +1,81 @@
+### Hello world, I'm Souvik 👋 
 
-<h1 align="center">Hi 👋, I'm Souvik Saha</h1>
-<h3 align="center">A passionate software engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+-----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souviksaha&label=Profile%20views&color=0e75b6&style=flat" alt="souviksaha" /> </p>
-
-- 🔭 I’m currently working on **Eye tracking system**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://souvik.odoo.com/](https://souvik.odoo.com/)
-
-- 📝 I regularly write articles on [https://medium.com/@hrithsaha841](https://medium.com/@hrithsaha841)
-
-- 💬 Ask me about **Python , Business Analysis, DevOps**
-
-- 📫 How to reach me **hrithsaha841@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uu0Tri-lNTBARYLWYvPs2-sqiv4BxuSs/view?usp=drive_link](https://drive.google.com/file/d/1uu0Tri-lNTBARYLWYvPs2-sqiv4BxuSs/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-saha-hrith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-saha-hrith/" height="30" width="40" /></a>
-<a href="https://medium.com/@hrithsaha841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hrithsaha841" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hrithsaha841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hrithsaha841" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/hrithsaha841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hrithsaha841/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Banner Image">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+-----
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Souvik Saha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Souvik Saha" /></a></p><br><br>
+![profile count](https://komarev.com/ghpvc/?username=996souvik&color=red)&nbsp;
+[![GitHub 996souvik](https://img.shields.io/github/followers/996souvik?label=follow&style=social)](https://github.com/996souvik)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souviksaha&show_icons=true&locale=en&layout=compact" alt="souviksaha" /></p>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souviksaha&show_icons=true&locale=en" alt="souviksaha" /></p>
+💡 &nbsp; Hello everyone, I'm pursuing CSE AI&ML from Techno India University. I enjoy collaborating with people on works of similar interest.
+
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise, resources, and guidance.\
+✍️ &nbsp;Apart from technical interests, I like singing, watching movies, reading novels, and playing video games.\
+💬 &nbsp;Feel free to reach out to me for general consulting or discussions.\
+✉️ &nbsp;You can email me at hrtithsaha841@gmail.com. I'll try to respond as soon as possible!
+
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+
+-----
+
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/souvik-saha-hrith/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/_______j_e_r_r_y____________/"><img src="https://img.shields.io/badge/-@_______j_e_r_r_y____________-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:hrithsaha841@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/hrithsaha841"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/u/hrithsaha841/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+
+-----
+
+<h1 align="center">Projects</h1>
+
+### 💼 Budget-Tracker
+A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
+- **Features**: Add income, add expenses, view total expenses, view balance, view expenses by category, reset budget.
+- **Technologies**: Python
+
+### 💼 Smart Bank Account Manager
+A Python application to manage bank accounts with functionalities like creating an account, depositing, withdrawing money, and checking balance.
+- **Features**: Create account, deposit money, withdraw money, check balance, user login system.
+- **Technologies**: Python
+
+-----
+
+### Languages and Tools
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+</p>
+
+-----
+
+<h1 align="center">GitHub Stats</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souviksaha&" alt="souviksaha" /></p>
+
+<img align="left" alt="Souvik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=996souvik&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=996souvik&layout=compact&theme=dark" width="46%" />
+<br>
