@@ -71,8 +71,19 @@ A Python application to manage bank accounts with functionalities like creating 
 </p>
 
 -----
+<!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@996souvik#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=996souvik&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+
+
+
+<!-- activity graph heroku-app end -->
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3ASouvik-saha+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=996souvik&theme=github_dark&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3ASouvik-saha+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=996souvik&theme=github&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ASouvik-saha+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=996souvik&theme=github_dark&hide_border=true"  width="64%" profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ASouvik-saha+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=996souvik&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p>
 
 
