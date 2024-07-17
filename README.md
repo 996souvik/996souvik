@@ -8,7 +8,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=996souvik&color=red)&nbsp;
+
 [![GitHub 996souvik](https://img.shields.io/github/followers/996souvik?label=follow&style=social)](https://github.com/996souvik)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
